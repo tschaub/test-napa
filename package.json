@@ -1,0 +1,15 @@
+{
+  "name": "test-napa",
+  "version": "1.0.0",
+  "description": "Testing git URLs with napa",
+  "main": "index.js",
+  "scripts": {
+    "install": "napa"
+  },
+  "napa": {
+    "small-test-repo": "git+ssh://git@github.com/rtyley/small-test-repo.git#3974996807a9f596cf25ac3a714995c24bb97e2c"
+  },
+  "devDependencies": {
+    "napa": "2.3.0"
+  }
+}
