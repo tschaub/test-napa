@@ -7,7 +7,7 @@
     "install": "napa"
   },
   "napa": {
-    "small-test-repo": "git+ssh://git@github.com/rtyley/small-test-repo.git#3974996807a9f596cf25ac3a714995c24bb97e2c"
+    "small-test-repo": "git+ssh://git@github.com/rtyley/small-test-repo.git#ce1e0703402e989bedf03d5df535401340f54b42"
   },
   "devDependencies": {
     "napa": "2.3.0"
