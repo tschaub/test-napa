@@ -1,5 +1,7 @@
 ## testing napa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/test-napa.svg)](https://greenkeeper.io/)
+
 This is a repo for testing napa.  See [shama/napa#43](https://github.com/shama/napa/pull/43#issuecomment-179544457).
 
 ```
